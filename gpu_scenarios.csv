@@ -1,0 +1,9 @@
+gpu_name,gpu_power_watts,tokens_per_second,electricity_cost_per_kwh
+A100 80GB (heavy load),400,60,0.08
+A100 80GB (inference),300,80,0.08
+H100 SXM (fast inference),350,200,0.08
+RTX 4090 (small model),200,150,0.06
+RTX 3090 (dev box),180,40,0.06
+V100 (older GPU),250,45,0.08
+A10G (AWS g5),125,55,0.10
+L4 (GCP),72,70,0.09
